@@ -5,6 +5,6 @@ toilet GENERATE --gay
 sleep 1
 toilet Payload --gay
 sleep 1.0
-cd $HOME/pgenerator
+cd $HOME/payload-generator
 python exeb.py
 
